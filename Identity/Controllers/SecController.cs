@@ -37,7 +37,7 @@ namespace Identity.Controllers
             if (model.Email == "admin@admin.com" && model.Password == "password")
             {
                 var identity = new ClaimsIdentity(new[] {
-                new Claim(ClaimTypes.Name, "Ben"),
+              
                 new Claim(ClaimTypes.Email, "a@b.com"),
                 new Claim(ClaimTypes.Country, "England")
             },
@@ -55,6 +55,17 @@ namespace Identity.Controllers
             ModelState.AddModelError("", "Invalid email or password");
             return View();
         }
+
+
+        public ActionResult LogOut()
+        {
+            var auth = Request.GetOwinContext().Authentication;
+
+            auth.SignOut("ApplicationCookie");
+
+            return Content("Success");
+        }
+
 
         private string GetRedirectUrl(string returnUrl)
         {

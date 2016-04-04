@@ -9,7 +9,20 @@
     Hello @User.Identity.Name
 </p>
 
+<p>
+
+    From Claims @ViewBag.Country
+</p>
+
+
 
 http://benfoster.io/blog/aspnet-identity-stripped-bare-mvc-part-1
 
 http://benfoster.io/blog/aspnet-identity-stripped-bare-mvc-part-2
+
+
+
+<div class="row">
+    @Html.ActionLink("Logout","LogOut","Sec",null,new {@class="btn btn-primary"})
+
+</div>

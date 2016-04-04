@@ -39,3 +39,44 @@ c:\users\hannan\documents\visual studio 2015\Projects\Identity\Identity\bin\Syst
 c:\users\hannan\documents\visual studio 2015\Projects\Identity\Identity\bin\System.Web.Mvc.xml
 c:\users\hannan\documents\visual studio 2015\Projects\Identity\Identity\obj\Debug\Identity.dll
 c:\users\hannan\documents\visual studio 2015\Projects\Identity\Identity\obj\Debug\Identity.pdb
+E:\GITHUB\Identity\Identity\bin\roslyn\csc.exe
+E:\GITHUB\Identity\Identity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GITHUB\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GITHUB\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GITHUB\Identity\Identity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GITHUB\Identity\Identity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GITHUB\Identity\Identity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GITHUB\Identity\Identity\bin\roslyn\System.Collections.Immutable.dll
+E:\GITHUB\Identity\Identity\bin\roslyn\System.Reflection.Metadata.dll
+E:\GITHUB\Identity\Identity\bin\roslyn\vbc.exe
+E:\GITHUB\Identity\Identity\bin\roslyn\VBCSCompiler.exe
+E:\GITHUB\Identity\Identity\bin\roslyn\VBCSCompiler.exe.config
+E:\GITHUB\Identity\Identity\bin\Identity.dll.config
+E:\GITHUB\Identity\Identity\bin\Identity.dll
+E:\GITHUB\Identity\Identity\bin\Identity.pdb
+E:\GITHUB\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.dll
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.Security.dll
+E:\GITHUB\Identity\Identity\bin\Microsoft.Web.Infrastructure.dll
+E:\GITHUB\Identity\Identity\bin\Owin.dll
+E:\GITHUB\Identity\Identity\bin\System.Web.Helpers.dll
+E:\GITHUB\Identity\Identity\bin\System.Web.Mvc.dll
+E:\GITHUB\Identity\Identity\bin\System.Web.Razor.dll
+E:\GITHUB\Identity\Identity\bin\System.Web.Webpages.Deployment.dll
+E:\GITHUB\Identity\Identity\bin\System.Web.Webpages.dll
+E:\GITHUB\Identity\Identity\bin\System.Web.Webpages.Razor.dll
+E:\GITHUB\Identity\Identity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.xml
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.Security.xml
+E:\GITHUB\Identity\Identity\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GITHUB\Identity\Identity\bin\System.Web.Razor.xml
+E:\GITHUB\Identity\Identity\bin\System.Web.Webpages.xml
+E:\GITHUB\Identity\Identity\bin\System.Web.Webpages.Deployment.xml
+E:\GITHUB\Identity\Identity\bin\System.Web.Webpages.Razor.xml
+E:\GITHUB\Identity\Identity\bin\System.Web.Helpers.xml
+E:\GITHUB\Identity\Identity\bin\System.Web.Mvc.xml
+E:\GITHUB\Identity\Identity\obj\Debug\Identity.dll
+E:\GITHUB\Identity\Identity\obj\Debug\Identity.pdb
